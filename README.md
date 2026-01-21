@@ -7,6 +7,6 @@ https://696a2f8a81607af2621f5e04--serene-alpaca-2f4a84.netlify.app/
 
 ## Running the code
 
-Install Node.js
-Run `npm i` to install the dependencies.
-Run `npm run dev` to start the development server.
+1) Install Node.js
+2) Run `npm i` to install the dependencies.
+3) Run `npm run dev` to start the development server.
